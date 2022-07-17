@@ -74,6 +74,7 @@ app.use(bodyParser.json());
 app.use(passport.initialize());
 app.use(expressValidator());
 app.use(cors());
+app.options('*', cors());
 app.set('io', io);
 
 /** Routes Definitions */

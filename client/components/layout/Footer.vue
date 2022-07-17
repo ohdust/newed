@@ -2,10 +2,10 @@
     <footer class="footer section__footer">
         <div class="footer__content">
             <div class="footer__left">
-                <span>Copyright &copy; 2018 Lu-Vuong Le</span>
+                <span></span>
             </div>
             <div class="footer__right">
-                <span>Created under the MIT License</span>
+                <span></span>
                 <a
                     href="https://github.com/luvuong-le/astro-chat"
                     target="_blank"
