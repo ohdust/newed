@@ -26,5 +26,10 @@
     "devDependencies": {
         "concurrently": "^4.1.0"
     },
-    "dependencies": {}
+    "dependencies": {
+
+    },
+    "engines": {
+        "node": "14.7.0"
+    }
 }
